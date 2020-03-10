@@ -3,9 +3,9 @@
 
 #### Laboratorium - zadania:
 
-Lab2/                            | Lab3/ 
--------------------------------- | --------------------------------
-1. Kalkulator BMI                | 1. 
-1. Kalkulator BMR                | 2.    
-1. Weryfikator nr PESEL          | 3. 
+Lab2/                    | Lab3/ 
+------------------------ | ------------------------
+1. Kalkulator BMI        | 1. (zad1)
+1. Kalkulator BMR        | 2. (zad2)   
+1. Weryfikator nr PESEL  | 3. (zad3)
 
