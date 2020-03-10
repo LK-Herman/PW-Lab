@@ -1,9 +1,17 @@
 ![Lab Logo](https://github.com/LK-Herman/PW-Lab/blob/master/lab-png-3.png?raw=true)
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LK-Herman/PW-Lab/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Projektowanie wizualne
+## Laboratorium
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Laboratorium 2 - zadania:
+1. Kalkulator BMI
+2. Kalkulator BMR
+3. Weryfikator nr PESEL
+
+
+
+
+
 
 ### Markdown
 
