@@ -3,8 +3,8 @@
 
 #### Laboratorium - zadania:
 
- Nr | Laboatorium-2               | Laboratorium-3 | Laboratorium-4 | Laboratorium-5 | Laboratorium-6
---- | --------------------------- | -------------- | -------------- | -------------- | ---------------
+ Nr | Lab 2               | Lab 3 | Lab 4 | Lab 5 | Lab 6
+--- | --------------------------- | ---------------- | ---------------- | ---------------- | -----------------
 1 | Kalkulator BMI          
 2 | Kalkulator BMR            
 3 | Weryfikator nr PESEL   
