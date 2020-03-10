@@ -5,7 +5,7 @@
 
  Nr | Lab2                | Lab3 | Lab4 | Lab5 | Lab6
 --- | ------------------- | ---- |----- | ---- | ----
-1 | Kalkulator BMI        |  
-2 | Kalkulator BMR        |    
-3 | Weryfikator nr PESEL  | 
-4 |
+1 | Kalkulator BMI          
+2 | Kalkulator BMR            
+3 | Weryfikator nr PESEL   
+
