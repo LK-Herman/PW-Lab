@@ -1,3 +1,4 @@
+![Lab Logo](https://github.com/LK-Herman/PW-Lab/blob/master/lab-png-3.png?raw=true)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LK-Herman/PW-Lab/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
