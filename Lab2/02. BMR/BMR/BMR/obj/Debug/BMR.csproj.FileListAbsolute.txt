@@ -1,0 +1,9 @@
+E:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\BMR\BMR\BMR\bin\Debug\BMR.exe.config
+E:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\BMR\BMR\BMR\bin\Debug\BMR.exe
+E:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\BMR\BMR\BMR\bin\Debug\BMR.pdb
+E:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\BMR\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+E:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\BMR\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+E:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\BMR\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+E:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\BMR\BMR\BMR\obj\Debug\BMR.exe
+E:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\BMR\BMR\BMR\obj\Debug\BMR.pdb
+E:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\BMR\BMR\BMR\obj\Debug\BMR.FormBMR.resources
