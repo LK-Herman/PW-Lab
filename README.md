@@ -3,7 +3,7 @@
 
 #### Laboratorium - zadania:
 
- Nr | Lab 2               | Lab 3 | Lab 4 | Lab 5 | Lab 6
+ Nr | Lab 3               | Lab 4 | Lab 5 | Lab 6 | Lab 7
 --- | --------------------------- | ---------------- | ---------------- | ---------------- | -----------------
 1 | Kalkulator BMI          
 2 | Kalkulator BMR            
