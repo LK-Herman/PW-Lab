@@ -1,0 +1,10 @@
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\wizytowka\wizytowka\bin\Debug\wizytowka.exe.config
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\wizytowka\wizytowka\bin\Debug\wizytowka.exe
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\wizytowka\wizytowka\bin\Debug\wizytowka.pdb
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\wizytowka\wizytowka\obj\Debug\wizytowka.csprojAssemblyReference.cache
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\wizytowka\wizytowka\obj\Debug\wizytowka.FormCard.resources
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\wizytowka\wizytowka\obj\Debug\wizytowka.Properties.Resources.resources
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\wizytowka\wizytowka\obj\Debug\wizytowka.csproj.GenerateResource.cache
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\wizytowka\wizytowka\obj\Debug\wizytowka.exe
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\wizytowka\wizytowka\obj\Debug\wizytowka.pdb
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\wizytowka\wizytowka\obj\Debug\wizytowka.FormShow2.resources
