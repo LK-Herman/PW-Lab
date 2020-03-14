@@ -1,0 +1,10 @@
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\FormLoginB\FormLoginB\bin\Debug\FormLoginB.exe.config
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\FormLoginB\FormLoginB\bin\Debug\FormLoginB.exe
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\FormLoginB\FormLoginB\bin\Debug\FormLoginB.pdb
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\FormLoginB\FormLoginB\obj\Debug\FormLoginB.csprojAssemblyReference.cache
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\FormLoginB\FormLoginB\obj\Debug\FormLoginB.Form1.resources
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\FormLoginB\FormLoginB\obj\Debug\FormLoginB.Form2.resources
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\FormLoginB\FormLoginB\obj\Debug\FormLoginB.Properties.Resources.resources
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\FormLoginB\FormLoginB\obj\Debug\FormLoginB.csproj.GenerateResource.cache
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\FormLoginB\FormLoginB\obj\Debug\FormLoginB.exe
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\FormLoginB\FormLoginB\obj\Debug\FormLoginB.pdb
