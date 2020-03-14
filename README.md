@@ -9,5 +9,5 @@
 2 | Kalkulator BMR        |Panel logowania A    
 3 | Weryfikator nr PESEL  |Panel logowania B 
 4 | -                     |Kostka do gry
-5 | -
-6 | -
+5 | - | -
+
