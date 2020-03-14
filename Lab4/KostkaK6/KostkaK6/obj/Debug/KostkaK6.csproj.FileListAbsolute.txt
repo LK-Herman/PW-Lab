@@ -1,0 +1,9 @@
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\KostkaK6\KostkaK6\bin\Debug\KostkaK6.exe.config
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\KostkaK6\KostkaK6\bin\Debug\KostkaK6.exe
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\KostkaK6\KostkaK6\bin\Debug\KostkaK6.pdb
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\KostkaK6\KostkaK6\obj\Debug\KostkaK6.csprojAssemblyReference.cache
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\KostkaK6\KostkaK6\obj\Debug\KostkaK6.Form1.resources
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\KostkaK6\KostkaK6\obj\Debug\KostkaK6.Properties.Resources.resources
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\KostkaK6\KostkaK6\obj\Debug\KostkaK6.csproj.GenerateResource.cache
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\KostkaK6\KostkaK6\obj\Debug\KostkaK6.exe
+D:\Semestr 4\01. PW Projektowanie Wizualne\Lab 4\KostkaK6\KostkaK6\obj\Debug\KostkaK6.pdb
