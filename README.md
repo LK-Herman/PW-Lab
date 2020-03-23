@@ -16,3 +16,4 @@
 
 #### Lab5 - Zad2komis:
 ![Lab 5](https://github.com/LK-Herman/PW-Lab/blob/master/Lab5/zad2komis.jpg?raw=true)
+![Lab 51](https://github.com/LK-Herman/PW-Lab/blob/master/Lab5/zad2komis2.jpg?raw=true)
