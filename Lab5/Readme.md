@@ -4,4 +4,4 @@ wersja rozbudowana:
 - dodawanie aut do bazy
 - usuwanie aut z bazy
 
-![Lab Logo](https://github.com/LK-Herman/PW-Lab/blob/master/lab-png-3.png?raw=true)
+![Lab Logo](https://github.com/LK-Herman/PW-Lab/Lab5/zad2komis.jpg?raw=true)
