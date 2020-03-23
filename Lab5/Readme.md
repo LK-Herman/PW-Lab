@@ -5,3 +5,6 @@ wersja rozbudowana:
 - usuwanie aut z bazy
 
 ![Lab 5](https://github.com/LK-Herman/PW-Lab/blob/master/Lab5/zad2komis.jpg?raw=true)
+
+Formularz dodawania:
+![Lab 51](https://github.com/LK-Herman/PW-Lab/blob/master/Lab5/zad2komis2.jpg?raw=true)
