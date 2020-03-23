@@ -11,3 +11,8 @@
 4 | -                     |Kostka do gry
 5 | - | -
 
+#### Lab4 - Kostka do gry
+![Lab 5](https://github.com/LK-Herman/PW-Lab/blob/master/Lab4/kostka.jpg?raw=true)
+
+#### Lab5 - Zad2komis:
+![Lab 5](https://github.com/LK-Herman/PW-Lab/blob/master/Lab5/zad2komis.jpg?raw=true)
