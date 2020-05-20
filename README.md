@@ -11,11 +11,12 @@
 4 | -                     |Kostka do gry
 5 | - | -
 
-#### Lab4 - Kostka do gry
+#### Lab4 - Zadanie: Windows Forms - Kostka do gry (losowanie i zapamiętanie wyników)
 ![Lab 5](https://github.com/LK-Herman/PW-Lab/blob/master/Lab4/kostka.jpg?raw=true)
 
-#### Lab5 - Zad2 komis:
+#### Lab5 - Zadanie: Windows Forms -  Komis samochodowy (Windows Forms, C#, MySQL, dodawanie/usuwanie pozycji, sortowanie, DataGrid)
 ![Lab 5](https://github.com/LK-Herman/PW-Lab/blob/master/Lab5/zad2komis.jpg?raw=true)
+#### Dodawanie pozycji do bazy danych
 ![Lab 51](https://github.com/LK-Herman/PW-Lab/blob/master/Lab5/zad2komis2.jpg?raw=true)
 #### Lab7 - Zadanie: Unity - 2D Wizytówka (obrót elementów, kolory, + niest. czcionka, skrypt)
 ![Lab 7](https://github.com/LK-Herman/PW-Lab/blob/master/Lab7/lab7_1.jpg?raw=true)
